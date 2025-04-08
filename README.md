@@ -1,6 +1,14 @@
-# Curso de React + Vite
+# Projeto Quiz em ReactJS
 
-O React é uma biblioteca JavaScript de código aberto criada pelo Facebook para construção de interfaces de usuário interativas e dinâmicas, especialmente em aplicações de página única (SPAs). Ele utiliza um conceito chamado Virtual DOM, que otimiza atualizações de interface, garantindo um desempenho superior ao manipular elementos de forma eficiente. Uma das principais funcionalidades do React é o uso de componentes reutilizáveis, que permitem dividir a aplicação em partes menores e independentes, facilitando o desenvolvimento e a manutenção. Além disso, o JSX combina a sintaxe JavaScript com HTML, proporcionando um código mais intuitivo. O estado (state) e as propriedades (props) controlam dados e comportamentos dos componentes, enquanto o hook useEffect lida com efeitos colaterais. O React também oferece suporte a hooks personalizados para lógica reutilizável e gerenciamento de estado global com bibliotecas como Redux ou Context API. Por fim, ele é amplamente utilizado no desenvolvimento de aplicações modernas devido à sua flexibilidade, alta performance e comunidade ativa.
+🚀 Estou desenvolvendo um projeto pequeno, mas bem bacana: um quiz interativo com perguntas sobre HTML, JavaScript e CSS3.
+
+A ideia é reforçar os conceitos dessas tecnologias de forma leve e divertida.
+Todo o projeto está sendo construído com ReactJS, com foco em uma interface dinâmica, responsiva e didática.
+
+📌 O código está disponível no GitHub para quem quiser baixar, testar ou contribuir com ideias:
+👉 [coloque aqui o link do repositório]
+
+Em breve trago mais novidades — e quem sabe você acerta todas as perguntas? 😄
 
 ## TECNOLOGIAS UTILIZADAS NO DESENVOLVIMENTO DO PROJETO
 
