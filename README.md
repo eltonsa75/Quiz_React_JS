@@ -31,11 +31,6 @@ Em breve trago mais novidades — e quem sabe você acerta todas as perguntas? �
 
  ![Quiz](./Quiz/quiz/src/img/quiz.svg)
 
- ## Tela de Login
-![Tela de Login](./2_PROJETO_TELA_LOGIN/src/assets/TelaLogin.JPG)
-
- ## Formulario com vários passos
-![Formulario](./2_PROJETO_TELA_LOGIN/src/assets/formulario.JPG)
 
 **Fonte: Hora de Cordar - React do Básico ao Avançado **
 
